@@ -9,4 +9,4 @@ be an edge between them, zero otherwise. To solve this problem
 we will build a model based on metadata related to the articles,
 textual information from the titles and abstracts as well as graph
 related features.
-We Received a leaderboard rank of #2 with accuracy of 0.98
+We Received a leaderboard rank of #2 with accuracy of 0.98.
