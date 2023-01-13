@@ -1,5 +1,5 @@
 # kaggle_MLNS2022_-Link_Prediction
-—The object of this project is a directed graph where
+—The objective of this project is to create a directed graph where
 the nodes represent scientific articles and an edge indicates that
 its tail cites its head. Given that some of the edges of the graph
 have been removed, the purpose of our project is to be able to
